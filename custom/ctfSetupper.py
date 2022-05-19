@@ -100,7 +100,6 @@ def ctfSetup(fileName, category):
 
         if category:
             catFolder = setupEnv+"/"+category+"/"+fileName.split(".")[0]
-            print("THIS IS THE CAT FOLDER", catFolder)
             subprocess.call(["/usr/bin/mkdir", catFolder])
             subprocess.call(["/usr/bin/mv", fileName, catFolder])
 
