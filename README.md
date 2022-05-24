@@ -1,5 +1,5 @@
 # CTFSetup
-Stuffs.. for.. ctf'ing - "Don't hack - play the CTF" 
+"Don't hack, Play the CTF"
 
 Q: There's an erro-
 
